@@ -19,6 +19,17 @@ You can use this project freely as a reference.
 ~ Schematic of the hardware
 
 
+
+
+
+
+
+
+
+
+
+
+
 Created by
 
 Revelino Puteraiwan
